@@ -96,6 +96,7 @@ select {
   height: auto;
   overflow-x: auto;
   background-color: var(--optional-color);
+  border: 1px solid rgba(0, 0, 0, 0.718);
   padding: 10px;
   white-space: pre-wrap;
   border-radius: 2px;
