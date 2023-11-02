@@ -14,8 +14,9 @@ Code Snippet 👇
 
 <details>
 <summary>Click to reveal JavaScript Code Snippet</summary>
-```javascript
-methodSelect.addEventListener("change", () => {
+  <pre>
+    <code lang = "javascript">
+      methodSelect.addEventListener("change", () => {
   try {
     const selectedValue = methodSelect.value;
     if (arraysApi[selectedValue]) {
@@ -30,7 +31,8 @@ methodSelect.addEventListener("change", () => {
     console.error(error.message);
   }
 });
-```
+    </code>
+  </pre>
 </details>
 
 ## Getting Started 🛠️
@@ -56,8 +58,9 @@ If you find any issues or want to report a bug, please use the [Issue Tracker](h
 
 ## Contact 📧
 
-If you have any questions or suggestions, feel free to reach out on LinkedIn:
-[<img src="images/linkedin.png" width="30px"> LinkedIn](https://www.linkedin.com/in/alizainaslam/)
+If you have any questions or suggestions, feel free to reach out on LinkedIn 👇:
+
+[<img src="images/linkedin.png" width="40px">](https://www.linkedin.com/in/alizainaslam/)
 
 ## License 📜
 
